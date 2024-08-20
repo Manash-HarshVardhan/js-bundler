@@ -1,0 +1,1 @@
+console.log("This is file1.js"),console.log("This is file2.js");
